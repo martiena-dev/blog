@@ -5,7 +5,7 @@ coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2026-06-25T10:00:00.000Z"
 author:
   name: Martiena
-  picture: "/assets/blog/authors/tim.jpeg"
+  picture: "/assets/blog/authors/martiena.png"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
